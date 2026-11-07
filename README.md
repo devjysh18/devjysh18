@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">JYSH</h1>
+<p align="center">Product-minded developer</p>
 
-<!--
-**devjysh18/devjysh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/galaxy?username=devjysh18&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328626800%3Fu%3De399bbeac7f79aed264706decdf62359b13663c0%26v%3D4" alt="devjysh18 galaxy visual" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center"><b>0</b> public repositories, <b>0</b> stars, <b>1</b> contributions in the last year, a longest streak of <b>1</b> days and <b>0</b> followers.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Brightest stars
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=devjysh18&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328626800%3Fu%3De399bbeac7f79aed264706decdf62359b13663c0%26v%3D4" alt="devjysh18 projects visual" />
+</p>
+
+## Elements
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=devjysh18&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328626800%3Fu%3De399bbeac7f79aed264706decdf62359b13663c0%26v%3D4" alt="devjysh18 stack visual" />
+</p>
+
+## Transmission
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=devjysh18&theme=midnight&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F328626800%3Fu%3De399bbeac7f79aed264706decdf62359b13663c0%26v%3D4" alt="devjysh18 social visual" />
+</p>
+
+<p align="center"><a href="https://github.com/devjysh18">GitHub</a></p>
